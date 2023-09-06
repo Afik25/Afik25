@@ -1,4 +1,4 @@
-- 👋 Hi, Here is Amisi I’m @Afik25
+- 👋 Hi, Here is Amisi FIKIRINI (@Afik25)
 - 👀 I’m interested in cool stuff in Software Development and Artificial Intelligence
 - 🌱 I’m currently learning interesting things based on Machine Learning and its fields
 - - 🔭 I’m currently working on Machine Learning,Data Science
